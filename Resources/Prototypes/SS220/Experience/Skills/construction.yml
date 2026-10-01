@@ -1,7 +1,7 @@
 - type: skill
   id: ConstructionInitial
   levelInfo:
-    maximumSublevel: 5
+    maximumSublevel: 0
     levelUpPopup: construction-initial-level-up-popup
     sublevelUpPopup: construction-initial-sublevel-up-popup
   levelDescription:
@@ -25,7 +25,7 @@
 - type: skill
   id: ConstructionBase
   levelInfo:
-    maximumSublevel: 5
+    maximumSublevel: 0
     levelUpPopup: construction-base-level-up-popup
     sublevelUpPopup: construction-base-sublevel-up-popup
   levelDescription:
@@ -49,7 +49,7 @@
 - type: skill
   id: ConstructionTrained
   levelInfo:
-    maximumSublevel: 5
+    maximumSublevel: 0
     levelUpPopup: construction-trained-level-up-popup
     sublevelUpPopup: construction-trained-sublevel-up-popup
   levelDescription:
@@ -64,7 +64,7 @@
 - type: skill
   id: ConstructionProfessional
   levelInfo:
-    maximumSublevel: 1
+    maximumSublevel: 0
     levelUpPopup: construction-professional-level-up-popup
     sublevelUpPopup: construction-professional-sublevel-up-popup
   levelDescription:

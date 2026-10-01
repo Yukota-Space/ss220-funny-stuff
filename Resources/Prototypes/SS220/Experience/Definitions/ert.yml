@@ -4,17 +4,17 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 3
+      level: 4
     CombatTraining:
-      level: 3
+      level: 4
     Construction:
-      level: 2
+      level: 4
     Medicine:
-      level: 2
+      level: 4
     Anatomy:
-      level: 2
+      level: 4
     PhysicalTraining:
-      level: 3
+      level: 4
   knowledges:
   - CentCommKnowledge
   - InformedPersonalKnowledge
@@ -26,17 +26,17 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 2
+      level: 4
     CombatTraining:
-      level: 2
+      level: 4
     Construction:
-      level: 2
+      level: 4
     Medicine:
-      level: 2
+      level: 4
     Anatomy:
-      level: 2
+      level: 4
     PhysicalTraining:
-      level: 3
+      level: 4
   knowledges:
   - CentCommKnowledge
   - SupernaturalBookKnowledge
@@ -47,17 +47,17 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 3
+      level: 4
     CombatTraining:
-      level: 2
+      level: 4
     Construction:
-      level: 3
+      level: 4
     Medicine:
-      level: 2
+      level: 4
     Anatomy:
-      level: 2
+      level: 4
     PhysicalTraining:
-      level: 3
+      level: 4
   knowledges:
   - CentCommKnowledge
   - EngineerKnowledge
@@ -68,17 +68,17 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 2
+      level: 4
     CombatTraining:
-      level: 3
+      level: 4
     Construction:
-      level: 2
+      level: 4
     Medicine:
-      level: 2
+      level: 4
     Anatomy:
-      level: 2
+      level: 4
     PhysicalTraining:
-      level: 3
+      level: 4
   knowledges:
   - CentCommKnowledge
   - SecurityKnowledge
@@ -89,17 +89,17 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 2
+      level: 4
     CombatTraining:
-      level: 2
+      level: 4
     Construction:
-      level: 2
+      level: 4
     Medicine:
-      level: 3
+      level: 4
     Anatomy:
-      level: 3
+      level: 4
     PhysicalTraining:
-      level: 3
+      level: 4
   knowledges:
   - CentCommKnowledge
   - MedicalKnowledge
@@ -110,16 +110,16 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 2
+      level: 4
     CombatTraining:
-      level: 2
+      level: 4
     Construction:
-      level: 2
+      level: 4
     Medicine:
-      level: 2
+      level: 4
     Anatomy:
-      level: 2
+      level: 4
     PhysicalTraining:
-      level: 3
+      level: 4
   knowledges:
   - CentCommKnowledge

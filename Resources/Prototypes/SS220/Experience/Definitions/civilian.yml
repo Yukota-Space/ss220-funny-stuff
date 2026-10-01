@@ -4,15 +4,15 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 1
+      level: 4
     CombatTraining:
-      level: 1
+      level: 4
     Construction:
-      level: 1
+      level: 4
     Medicine:
-      level: 1
+      level: 4
     PhysicalTraining:
-      level: 1
+      level: 4
   addSublevelPoints: 20
 
 - type: experienceDefinition
@@ -21,16 +21,16 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 1
+      level: 4
     CombatTraining:
-      level: 1
+      level: 4
     Construction:
-      level: 1
+      level: 4
     Medicine:
       level: 2
     PhysicalTraining:
       level: 2
-  addSublevelPoints: 15
+  addSublevelPoints: 45
 
 - type: experienceDefinition
   id: BotanistRoleExperience
@@ -38,18 +38,18 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 1
+      level: 4
     CombatTraining:
-      level: 1
+      level: 4
     Construction:
       level: 2
     Medicine:
-      level: 1
+      level: 4
     PhysicalTraining:
       level: 2
   knowledges:
   - BotanyKnowledge
-  addSublevelPoints: 15
+  addSublevelPoints: 45
 
 - type: experienceDefinition
   id: ChaplainRoleExperience
@@ -57,18 +57,18 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 1
+      level: 4
     CombatTraining:
-      level: 1
+      level: 4
     Construction:
       level: 2
     Medicine:
-      level: 1
+      level: 4
     PhysicalTraining:
       level: 2
   knowledges:
   - SupernaturalBookKnowledge
-  addSublevelPoints: 15
+  addSublevelPoints: 45
 
 - type: experienceDefinition
   id: ChefRoleExperience
@@ -76,16 +76,16 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 1
+      level: 4
     CombatTraining:
       level: 2
     Construction:
       level: 2
     Medicine:
-      level: 1
+      level: 4
     PhysicalTraining:
       level: 2
-  addSublevelPoints: 10
+  addSublevelPoints: 40
 
 - type: experienceDefinition
   id: ClownRoleExperience
@@ -93,18 +93,18 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 1
+      level: 4
     CombatTraining:
-      level: 1
+      level: 4
     Construction:
       level: 2
     Medicine:
-      level: 1
+      level: 4
     PhysicalTraining:
       level: 2
   knowledges:
   - ServiceActorKnowledge
-  addSublevelPoints: 15
+  addSublevelPoints: 45
 
 - type: experienceDefinition
   id: JanitorRoleExperience
@@ -114,14 +114,14 @@
     ExtravehicularActivity:
       level: 2
     CombatTraining:
-      level: 1
+      level: 4
     Construction:
-      level: 1
+      level: 4
     Medicine:
-      level: 1
+      level: 4
     PhysicalTraining:
       level: 2
-  addSublevelPoints: 15
+  addSublevelPoints: 45
 
 - type: experienceDefinition
   id: LibrarianRoleExperience
@@ -129,15 +129,15 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 1
+      level: 4
     CombatTraining:
-      level: 1
+      level: 4
     Construction:
       level: 2
     Medicine:
       level: 2
     PhysicalTraining:
-      level: 1
+      level: 4
   knowledges:
   - SupernaturalBookKnowledge
   addSublevelPoints: 20
@@ -148,18 +148,18 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 1
+      level: 4
     CombatTraining:
-      level: 1
+      level: 4
     Construction:
       level: 2
     Medicine:
-      level: 1
+      level: 4
     PhysicalTraining:
       level: 2
   knowledges:
   - ServiceActorKnowledge
-  addSublevelPoints: 15
+  addSublevelPoints: 45
 
 - type: experienceDefinition
   id: MusicianRoleExperience
@@ -167,18 +167,18 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 1
+      level: 4
     CombatTraining:
-      level: 1
+      level: 4
     Construction:
-      level: 1
+      level: 4
     Medicine:
-      level: 1
+      level: 4
     PhysicalTraining:
       level: 2
   knowledges:
   - ServiceActorKnowledge
-  addSublevelPoints: 15
+  addSublevelPoints: 45
 
 - type: experienceDefinition
   id: ServiceWorkerRoleExperience
@@ -186,16 +186,16 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 1
+      level: 4
     CombatTraining:
-      level: 1
+      level: 4
     Construction:
-      level: 1
+      level: 4
     Medicine:
-      level: 1
+      level: 4
     PhysicalTraining:
       level: 2
-  addSublevelPoints: 15
+  addSublevelPoints: 45
 
 - type: experienceDefinition
   id: SeniorServiceRoleExperience
@@ -203,9 +203,9 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 1
+      level: 4
     CombatTraining:
-      level: 1
+      level: 4
     Construction:
       level: 2
     Medicine:
@@ -215,7 +215,7 @@
   knowledges:
   - BotanyKnowledge
   - ServiceActorKnowledge
-  addSublevelPoints: 15
+  addSublevelPoints: 45
 
 - type: experienceDefinition
   id: VisitorRoleExperience
@@ -225,11 +225,11 @@
     ExtravehicularActivity:
       level: 2
     CombatTraining:
-      level: 1
+      level: 4
     Construction:
-      level: 1
+      level: 4
     Medicine:
-      level: 1
+      level: 4
     PhysicalTraining:
-      level: 1
+      level: 4
   addSublevelPoints: 20

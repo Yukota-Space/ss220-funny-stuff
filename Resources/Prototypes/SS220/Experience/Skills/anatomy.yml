@@ -1,7 +1,7 @@
 - type: skill
   id: AnatomyInitial
   levelInfo:
-    maximumSublevel: 5
+    maximumSublevel: 0
     levelUpPopup: anatomy-initial-level-up-popup
     sublevelUpPopup: anatomy-initial-sublevel-up-popup
   levelDescription:
@@ -24,7 +24,7 @@
 - type: skill
   id: AnatomyBase
   levelInfo:
-    maximumSublevel: 5
+    maximumSublevel: 0
     levelUpPopup: anatomy-base-level-up-popup
     sublevelUpPopup: anatomy-base-sublevel-up-popup
   levelDescription:
@@ -48,7 +48,7 @@
 - type: skill
   id: AnatomyTrained
   levelInfo:
-    maximumSublevel: 5
+    maximumSublevel: 0
     levelUpPopup: anatomy-trained-level-up-popup
     sublevelUpPopup: anatomy-trained-sublevel-up-popup
   levelDescription:
@@ -71,7 +71,7 @@
 - type: skill
   id: AnatomyProfessional
   levelInfo:
-    maximumSublevel: 1
+    maximumSublevel: 0
     levelUpPopup: anatomy-professional-level-up-popup
     sublevelUpPopup: anatomy-professional-sublevel-up-popup
   levelDescription:

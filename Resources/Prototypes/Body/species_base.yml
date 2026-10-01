@@ -189,6 +189,8 @@
   id: BaseSpeciesMobOrganic
   save: false
   components:
+  - type: BypassKnowledgeCheck
+  - type: BypassSkillCheck
   - type: Hunger
   - type: Thirst
   - type: Barotrauma

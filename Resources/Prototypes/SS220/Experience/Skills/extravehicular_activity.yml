@@ -1,7 +1,7 @@
 - type: skill
   id: ExtravehicularActivityInitial
   levelInfo:
-    maximumSublevel: 5
+    maximumSublevel: 0
     levelUpPopup: extravehicular-activity-initial-level-up-popup
     sublevelUpPopup: extravehicular-activity-initial-sublevel-up-popup
   levelDescription:
@@ -20,7 +20,7 @@
 - type: skill
   id: ExtravehicularActivityBase
   levelInfo:
-    maximumSublevel: 5
+    maximumSublevel: 0
     levelUpPopup: extravehicular-activity-base-level-up-popup
     sublevelUpPopup: extravehicular-activity-base-sublevel-up-popup
   levelDescription:
@@ -41,7 +41,7 @@
 - type: skill
   id: ExtravehicularActivityTrained
   levelInfo:
-    maximumSublevel: 5
+    maximumSublevel: 0
     levelUpPopup: extravehicular-activity-trained-level-up-popup
     sublevelUpPopup: extravehicular-activity-trained-sublevel-up-popup
   levelDescription:
@@ -63,7 +63,7 @@
 - type: skill
   id: ExtravehicularActivityProfessional
   levelInfo:
-    maximumSublevel: 1
+    maximumSublevel: 0
     levelUpPopup: extravehicular-activity-professional-level-up-popup
     sublevelUpPopup: extravehicular-activity-professional-sublevel-up-popup
   levelDescription:
