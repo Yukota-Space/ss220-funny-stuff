@@ -1,7 +1,7 @@
 - type: skill
   id: MedicineInitial
   levelInfo:
-    maximumSublevel: 5
+    maximumSublevel: 0
     levelUpPopup: medicine-initial-level-up-popup
     sublevelUpPopup: medicine-initial-sublevel-up-popup
   levelDescription:
@@ -27,7 +27,7 @@
 - type: skill
   id: MedicineBase
   levelInfo:
-    maximumSublevel: 5
+    maximumSublevel: 0
     levelUpPopup: medicine-base-level-up-popup
     sublevelUpPopup: medicine-base-sublevel-up-popup
   levelDescription:
@@ -52,7 +52,7 @@
 - type: skill
   id: MedicineTrained
   levelInfo:
-    maximumSublevel: 5
+    maximumSublevel: 0
     levelUpPopup: medicine-trained-level-up-popup
     sublevelUpPopup: medicine-trained-sublevel-up-popup
   levelDescription:
@@ -69,7 +69,7 @@
 - type: skill
   id: MedicineProfessional
   levelInfo:
-    maximumSublevel: 1
+    maximumSublevel: 0
     levelUpPopup: medicine-professional-level-up-popup
     sublevelUpPopup: medicine-professional-sublevel-up-popup
   levelDescription:

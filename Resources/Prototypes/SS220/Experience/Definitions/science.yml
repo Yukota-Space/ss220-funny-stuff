@@ -4,15 +4,15 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 2
+      level: 4
     CombatTraining:
-      level: 1
+      level: 4
     Construction:
-      level: 2
+      level: 4
     Medicine:
-      level: 2
+      level: 4
     PhysicalTraining:
-      level: 1
+      level: 4
   knowledges:
   - ScienceKnowledge
   addSublevelPoints: 10
@@ -23,17 +23,17 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 2
+      level: 4
     CombatTraining:
-      level: 2
+      level: 4
     Construction:
-      level: 2
+      level: 4
     Medicine:
-      level: 2
+      level: 4
     Anatomy:
-      level: 2
+      level: 4
     PhysicalTraining:
-      level: 2
+      level: 4
   knowledges:
   - InformedPersonalKnowledge
   - ScienceKnowledge
@@ -45,15 +45,15 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 2
+      level: 4
     CombatTraining:
-      level: 1
+      level: 4
     Construction:
-      level: 2
+      level: 4
     Medicine:
-      level: 2
+      level: 4
     PhysicalTraining:
-      level: 2
+      level: 4
   knowledges:
   - ScienceKnowledge
   addSublevelPoints: 10
@@ -64,15 +64,17 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 2
+      level: 4
     CombatTraining:
-      level: 1
+      level: 4
     Construction:
-      level: 2
+      level: 4
     Medicine:
-      level: 2
+      level: 4
+    Anatomy:
+      level: 4
     PhysicalTraining:
-      level: 1
+      level: 4
   knowledges:
   - ScienceKnowledge
   addSublevelPoints: 15

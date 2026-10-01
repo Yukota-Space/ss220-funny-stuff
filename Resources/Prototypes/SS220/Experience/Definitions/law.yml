@@ -4,15 +4,15 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 1
+      level: 4
     CombatTraining:
-      level: 1
+      level: 4
     Construction:
-      level: 1
+      level: 4
     Medicine:
-      level: 1
+      level: 4
     PhysicalTraining:
-      level: 2
+      level: 4
   addSublevelPoints: 20
 
 - type: experienceDefinition
@@ -21,15 +21,15 @@
     Bureaucracy:
       level: 3
     ExtravehicularActivity:
-      level: 1
+      level: 4
     CombatTraining:
-      level: 2
+      level: 4
     Construction:
-      level: 1
+      level: 4
     Medicine:
-      level: 1
+      level: 4
     PhysicalTraining:
-      level: 2
+      level: 4
   addSublevelPoints: 15
   knowledges:
   - InformedPersonalKnowledge
@@ -40,15 +40,15 @@
     Bureaucracy:
       level: 3
     ExtravehicularActivity:
-      level: 1
+      level: 4
     CombatTraining:
-      level: 2
+      level: 4
     Construction:
-      level: 1
+      level: 4
     Medicine:
-      level: 2
+      level: 4
     PhysicalTraining:
-      level: 2
+      level: 4
   addSublevelPoints: 10
   knowledges:
   - InformedPersonalKnowledge

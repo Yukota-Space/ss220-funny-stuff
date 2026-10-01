@@ -15,47 +15,47 @@
       level: 1
   knowledges:
   - CargoKnowledge
-  addSublevelPoints: 20
+  addSublevelPoints: 2000
 
 - type: experienceDefinition
   id: SalvageSpecialistRoleExperience
   skills:
     Bureaucracy:
-      level: 2
+      level: 4
     ExtravehicularActivity:
-      level: 2
+      level: 4
     CombatTraining:
-      level: 2
+      level: 4
     Construction:
-      level: 1
+      level: 4
     Medicine:
-      level: 1
+      level: 4
     Anatomy:
-      level: 2
+      level: 4
     PhysicalTraining:
-      level: 2
+      level: 4
   knowledges:
   - CargoKnowledge
-  addSublevelPoints: 15
+  addSublevelPoints: 2000
 
 - type: experienceDefinition
   id: QuartermasterRoleExperience
   skills:
     Bureaucracy:
-      level: 2
+      level: 4
     ExtravehicularActivity:
-      level: 2
+      level: 4
     CombatTraining:
-      level: 1
+      level: 4
     Construction:
-      level: 2
+      level: 4
     Medicine:
-      level: 1
+      level: 4
     Anatomy:
-      level: 2
+      level: 4
     PhysicalTraining:
-      level: 2
+      level: 4
   knowledges:
   - CargoKnowledge
   - InformedPersonalKnowledge
-  addSublevelPoints: 10
+  addSublevelPoints: 2000

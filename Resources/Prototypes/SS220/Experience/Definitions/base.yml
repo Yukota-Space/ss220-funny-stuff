@@ -4,18 +4,18 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 1
+      level: 4
     CombatTraining:
-      level: 1
+      level: 4
     Construction:
-      level: 1
+      level: 4
     Medicine:
-      level: 1
+      level: 4
     Anatomy:
-      level: 1
+      level: 4
     PhysicalTraining:
-      level: 1
-  addSublevelPoints: 20
+      level: 4
+  addSublevelPoints: 2000
 
 # Used to give it to job that dont have any effect from it
 # In Future it should be changed for them
@@ -25,15 +25,15 @@
     Bureaucracy:
       level: 1
     ExtravehicularActivity:
-      level: 1
+      level: 4
     CombatTraining:
-      level: 1
+      level: 4
     Construction:
-      level: 1
+      level: 4
     Medicine:
-      level: 1
+      level: 4
     Anatomy:
-      level: 1
+      level: 4
     PhysicalTraining:
-      level: 1
+      level: 4
   addSublevelPoints: 0
