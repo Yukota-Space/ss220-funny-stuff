@@ -19,7 +19,7 @@ public sealed partial class LimitationReviveComponent : Component
     /// </summary>
     [DataField]
     [AutoNetworkedField]
-    public int ReviveLimit = 2;
+    public int ReviveLimit = 200;
 
     /// <summary>
     /// How many times has the creature already died
@@ -36,7 +36,7 @@ public sealed partial class LimitationReviveComponent : Component
     {
         DamageDict = new()
         {
-            { "Cerebral", 20 }
+            { "Cerebral", 0.1 }
         },
     };
 
