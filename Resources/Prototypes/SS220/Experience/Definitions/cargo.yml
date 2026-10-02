@@ -21,7 +21,7 @@
   id: SalvageSpecialistRoleExperience
   skills:
     Bureaucracy:
-      level: 4
+      level: 2
     ExtravehicularActivity:
       level: 4
     CombatTraining:
@@ -42,7 +42,7 @@
   id: QuartermasterRoleExperience
   skills:
     Bureaucracy:
-      level: 4
+      level: 2
     ExtravehicularActivity:
       level: 4
     CombatTraining:
