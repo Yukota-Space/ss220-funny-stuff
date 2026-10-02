@@ -66,6 +66,7 @@
       forceEnableEmergencyLights: true
       shuttleTime: 300 #ss220
     epsilon:
+      playTTS: true
       announcement: alert-level-epsilon-announcement
       selectable: false
       sound:
@@ -77,3 +78,23 @@
       emergencyLightColor: DarkViolet
       forceEnableEmergencyLights: true
       shuttleTime: 1200
+    vanilagoon:
+      playTTS: true
+      announcement: alert-level-vanilagoon-announcement
+      selectable: false
+      sound:
+        path: /Audio/_Custom/vanilagoon_alerm.ogg
+      disableSelection: true
+      color: "#FF00ED"
+      emergencyLightColor: "#FF00ED"
+      forceEnableEmergencyLights: true
+    Tanc-a-Lelec:
+      playTTS: true
+      announcement: alert-level-Tanc-a-Lelec-announcement
+      selectable: false
+      sound:
+        path: /Audio/_Custom/Tanc_a_lelek_alert.ogg
+      disableSelection: true
+      color: "#FFC800"
+      emergencyLightColor: "#FFC800"
+      forceEnableEmergencyLights: true
