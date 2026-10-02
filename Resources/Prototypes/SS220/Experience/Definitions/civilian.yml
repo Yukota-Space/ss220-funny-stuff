@@ -27,9 +27,9 @@
     Construction:
       level: 4
     Medicine:
-      level: 2
+      level: 4
     PhysicalTraining:
-      level: 2
+      level: 4
   addSublevelPoints: 45
 
 - type: experienceDefinition
@@ -42,11 +42,11 @@
     CombatTraining:
       level: 4
     Construction:
-      level: 2
+      level: 4
     Medicine:
       level: 4
     PhysicalTraining:
-      level: 2
+      level: 4
   knowledges:
   - BotanyKnowledge
   addSublevelPoints: 45
@@ -61,11 +61,11 @@
     CombatTraining:
       level: 4
     Construction:
-      level: 2
+      level: 4
     Medicine:
       level: 4
     PhysicalTraining:
-      level: 2
+      level: 4
   knowledges:
   - SupernaturalBookKnowledge
   addSublevelPoints: 45
@@ -78,13 +78,13 @@
     ExtravehicularActivity:
       level: 4
     CombatTraining:
-      level: 2
+      level: 4
     Construction:
-      level: 2
+      level: 4
     Medicine:
       level: 4
     PhysicalTraining:
-      level: 2
+      level: 4
   addSublevelPoints: 40
 
 - type: experienceDefinition
@@ -97,11 +97,11 @@
     CombatTraining:
       level: 4
     Construction:
-      level: 2
+      level: 4
     Medicine:
       level: 4
     PhysicalTraining:
-      level: 2
+      level: 4
   knowledges:
   - ServiceActorKnowledge
   addSublevelPoints: 45
@@ -112,7 +112,7 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 2
+      level: 4
     CombatTraining:
       level: 4
     Construction:
@@ -120,7 +120,7 @@
     Medicine:
       level: 4
     PhysicalTraining:
-      level: 2
+      level: 4
   addSublevelPoints: 45
 
 - type: experienceDefinition
@@ -133,9 +133,9 @@
     CombatTraining:
       level: 4
     Construction:
-      level: 2
+      level: 4
     Medicine:
-      level: 2
+      level: 4
     PhysicalTraining:
       level: 4
   knowledges:
@@ -152,11 +152,11 @@
     CombatTraining:
       level: 4
     Construction:
-      level: 2
+      level: 4
     Medicine:
       level: 4
     PhysicalTraining:
-      level: 2
+      level: 4
   knowledges:
   - ServiceActorKnowledge
   addSublevelPoints: 45
@@ -175,7 +175,7 @@
     Medicine:
       level: 4
     PhysicalTraining:
-      level: 2
+      level: 4
   knowledges:
   - ServiceActorKnowledge
   addSublevelPoints: 45
@@ -194,7 +194,7 @@
     Medicine:
       level: 4
     PhysicalTraining:
-      level: 2
+      level: 4
   addSublevelPoints: 45
 
 - type: experienceDefinition
@@ -207,11 +207,11 @@
     CombatTraining:
       level: 4
     Construction:
-      level: 2
+      level: 4
     Medicine:
-      level: 2
+      level: 4
     PhysicalTraining:
-      level: 2
+      level: 4
   knowledges:
   - BotanyKnowledge
   - ServiceActorKnowledge
@@ -223,7 +223,7 @@
     Bureaucracy:
       level: 2
     ExtravehicularActivity:
-      level: 2
+      level: 4
     CombatTraining:
       level: 4
     Construction:
