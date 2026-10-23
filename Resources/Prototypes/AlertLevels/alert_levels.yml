@@ -98,3 +98,13 @@
       color: "#FFC800"
       emergencyLightColor: "#FFC800"
       forceEnableEmergencyLights: true
+    BPLA:
+      playTTS: true
+      announcement: alert-level-BPLA-announcement
+      selectable: false
+      sound:
+        path: /Audio/_Custom/BPLA_alert.ogg
+      disableSelection: true
+      color: "#39596B"
+      emergencyLightColor: "#39596B"
+      forceEnableEmergencyLights: true

@@ -1,0 +1,38 @@
+- type: entity
+  parent: [ImpactGrenadeBase]
+  id: Shahed
+  name: Шахед
+  description: Iconic loitering munition, developed in middle east and used in a very special conflict for more than 4 years
+  components:
+  - type: Physics
+    linearDamping: 0
+    angularDamping: 0
+  - type: TriggerOnLand
+    keyOut: LandEvent
+  - type: Sprite
+    sprite: Objects/_Custom/Shahed.rsi
+  - type: ExplodeOnTrigger
+    keysIn:
+    - LandEvent
+  - type: ThrowingAngle
+    angle: 180
+  - type: EmitSoundOnThrow
+    sound: /Audio/_Custom/Dvizhuha.ogg
+    volume: 2
+  - type: Explosive
+    explosionType: Default
+    maxIntensity: 15
+    intensitySlope: 2
+    totalIntensity: 240
+    canCreateVacuum: false
+  - type: Destructible
+    thresholds:
+    - trigger:
+        !type:DamageTrigger
+        damage: 50
+      behaviors:
+      - !type:TriggerBehavior
+        keyOut: LandEvent # immediately explode
+      - !type:DoActsBehavior
+        acts: ["Destruction"]
+
