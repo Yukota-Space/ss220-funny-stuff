@@ -1,0 +1,28 @@
+- type: entity
+  parent: BasePlushie
+  id: Titan
+  name: Титан
+  description: 15 тысяч ММР, принадлежит одному человеку с руками базуками, хай скиллом и хорошим геймсенсом
+  components:
+  - type: Sprite
+    sprite: Objects/_Custom/Titan.rsi
+    state: icon
+  - type: EmitSoundOnThrow
+    sound:
+      path: /Audio/_Custom/Objects/net.ogg
+  - type: EmitSoundOnUse
+    sound:
+      path: /Audio/_Custom/Objects/pishet.ogg
+  - type: MeleeWeapon
+    soundHit:
+      path: /Audio/_Custom/Objects/konchat.ogg
+    wideAnimationRotation: 180
+    attackRate: 1
+    range: 10.0
+    damage:
+      types:
+        slash: 0
+  - type: Item
+    size: Small
+  - type: UseDelay
+    delay: 5.0
